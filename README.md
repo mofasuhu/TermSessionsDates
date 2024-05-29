@@ -72,7 +72,7 @@ TermSessionsDates/
 - **LICENSE**: Contains the license information for the project.
 - **README.md**: This file, containing information about the project.
 - **requirements.txt**: Contains the list of dependencies needed for the project.
-- **screenshot.png**: Screenshot of the GUI.
+- **myscreenshot.png**: Screenshot of the GUI.
 - **TermSessionsDates.py**: The main Python script for the application.
 - **TermSessionsDates/**: Contains the executable file and internal resources.
 
