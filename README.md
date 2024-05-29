@@ -49,7 +49,7 @@ Use the executable file located in the `TermSessionsDates` folder. Double-click 
 
 ## Screenshot
 
-<img src="screenshot.png" alt="TermSessionsDates GUI" width="650"/>
+<img src="myscreenshot.png" alt="TermSessionsDates GUI" width="650"/>
 
 ## Project Structure
 
@@ -59,7 +59,7 @@ TermSessionsDates/
 ├── LICENSE
 ├── README.md
 ├── requirements.txt
-├── screenshot.png
+├── myscreenshot.png
 ├── TermSessionsDates.py
 └── TermSessionsDates/
     ├── TermSessionsDates.exe
